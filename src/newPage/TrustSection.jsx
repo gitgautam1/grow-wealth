@@ -21,7 +21,7 @@ function TrustSection() {
 
       <div className="flex overflow-hidden relative flex-col justify-center px-16 py-52 mt-16 w-full max-w-[1248px] min-h-[472px] rounded-[30px] max-md:px-5 max-md:py-24 max-md:mt-10 max-md:max-w-full">
         <img
-          src="https://cdn.builder.io/api/v1/image/assets/988ce8d5213645ae9869bacfcb0efcc5/0d7482ed7a7ca7a990f925a1723d7b9235f05f80?placeholderIfAbsent=true"
+          src="/public/centersafe.png"
           className="object-cover absolute inset-0 size-full"
           alt="Background"
         />

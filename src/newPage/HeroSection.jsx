@@ -4,7 +4,7 @@ function HeroSection() {
   return (
     <section className="flex relative z-0 flex-col justify-center w-full min-h-[960px] max-md:max-w-full">
       <img
-        src="https://cdn.builder.io/api/v1/image/assets/988ce8d5213645ae9869bacfcb0efcc5/e49f982ca31ac292c494f443e0e3156f1e5b7776?placeholderIfAbsent=true"
+        src="/public/hero.png"
         className="object-cover absolute inset-0 size-full"
         alt="Hero background"
       />

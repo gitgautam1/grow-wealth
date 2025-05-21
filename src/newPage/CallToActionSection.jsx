@@ -4,10 +4,11 @@ function CallToActionSection() {
   return (
     <section className="flex relative z-0 flex-col w-full min-h-[1046px] max-md:max-w-full">
       <img
-        src="https://cdn.builder.io/api/v1/image/assets/988ce8d5213645ae9869bacfcb0efcc5/5024aafa776109fa1de7a9094254a68f9f97d3dd?placeholderIfAbsent=true"
+        src="/public/footer.png"
         className="object-cover absolute inset-0 size-full"
         alt="Background"
       />
+      <div className="absolute inset-0 bg-gradient-to-b from-[#254B5F] to-[#254b5fc8] opacity-100"></div>
       <div className="flex overflow-hidden relative flex-col justify-center px-64 py-32 w-full max-md:px-5 max-md:py-24 max-md:max-w-full">
         <div className="flex flex-col w-full max-md:max-w-full">
           <h2 className="text-6xl text-center text-white leading-[67px] max-md:max-w-full max-md:text-4xl max-md:leading-[54px]">

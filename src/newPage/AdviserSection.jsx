@@ -4,7 +4,7 @@ function AdviserSection() {
   return (
     <section className="flex relative z-0 flex-col px-24 pb-24 w-full text-white min-h-[829px] pt-[464px] max-md:px-5 max-md:pt-24 max-md:max-w-full">
       <img
-        src="https://cdn.builder.io/api/v1/image/assets/988ce8d5213645ae9869bacfcb0efcc5/8518072db534e90b6438d954d6d72316b7d93b30?placeholderIfAbsent=true"
+        src="/public/mantab.png"
         className="object-cover absolute inset-0 size-full"
         alt="Background"
       />

@@ -13,7 +13,7 @@ function Navbar() {
       <div className="hidden md:flex flex-wrap gap-10 justify-between items-center py-4 pr-24 pl-20 w-full max-md:px-5 max-md:max-w-full">
         <div className="flex flex-wrap gap-10 items-center self-stretch my-auto whitespace-nowrap min-w-60 max-md:max-w-full">
           <img
-            src="https://cdn.builder.io/api/v1/image/assets/988ce8d5213645ae9869bacfcb0efcc5/ef1f73f5b1e668b3d69feca7633a25a46cfffc38?placeholderIfAbsent=true"
+            src="/public/OG_logo 1.png"
             className="object-contain shrink-0 self-stretch my-auto aspect-[1.83] w-[132px]"
             alt="GROW logo"
           />
