@@ -22,7 +22,7 @@ function ExpertiseSection() {
 
       <div className="flex relative flex-col gap-2 justify-center items-start mt-12 rounded-2xl min-h-[608px] overflow-hidden">
         <img
-          src="/public/phoneblack.png"
+          src="/phoneblack.png"
           className="object-cover absolute inset-0 size-full"
           alt="Platform interface"
         />

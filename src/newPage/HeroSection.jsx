@@ -4,7 +4,7 @@ function HeroSection() {
   return (
     <section className="flex relative z-0 flex-col justify-center w-full min-h-[960px] max-md:max-w-full">
       <img
-        src="/public/hero.png"
+        src="/hero.png"
         className="object-cover absolute inset-0 size-full"
         alt="Hero background"
       />

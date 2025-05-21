@@ -4,7 +4,7 @@ function CallToActionSection() {
   return (
     <section className="flex relative z-0 flex-col w-full min-h-[1046px] max-md:max-w-full">
       <img
-        src="/public/footer.png"
+        src="/footer.png"
         className="object-cover absolute inset-0 size-full"
         alt="Background"
       />
