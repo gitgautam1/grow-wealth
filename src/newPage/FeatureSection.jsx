@@ -17,7 +17,7 @@ function FeatureSection() {
         </p>
       </div>
 
-      <div className="flex overflow-hidden flex-wrap gap-6 items-start mt-16 w-full max-md:mt-10 max-md:max-w-full">
+      <div className="grid grid-cols-2 gap-6 items-start mt-16 w-full max-md:mt-10 max-md:grid-cols-1">
         <FeatureCard
           title={
             <span style={{ fontWeight: 400 }}>

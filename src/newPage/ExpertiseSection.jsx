@@ -20,7 +20,7 @@ function ExpertiseSection() {
         </p>
       </div>
 
-      <div className="flex relative flex-col gap-2 justify-center items-start mt-12 rounded-2xl min-h-[608px]">
+      <div className="flex relative flex-col gap-2 justify-center items-start mt-12 rounded-2xl min-h-[608px] overflow-hidden">
         <img
           src="https://cdn.builder.io/api/v1/image/assets/ed3d8125057341538940e494f4f5ee2b/940dde211970cd8efdbbe556917aa61464c788a8?placeholderIfAbsent=true"
           className="object-cover absolute inset-0 size-full"
